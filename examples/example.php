@@ -1,10 +1,5 @@
 <?php
 /**
-
-This SDK is deprecated.  Please use the new SDK found here: https://github.com/facebook/facebook-php-sdk-v4
-
-*/
-/**
  * Copyright 2011 Facebook, Inc.
  *
  * Licensed under the Apache License, Version 2.0 (the "License"); you may
